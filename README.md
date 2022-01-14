@@ -156,7 +156,7 @@ Square(side=4)
 8
 ```
 
-Os testes unitário para esse projeto estão em `test_module.py`.
+Os testes unitários para esse projeto estão em `test_module.py`.
 
 ### Desenvolvimento
 
